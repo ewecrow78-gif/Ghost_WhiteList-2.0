@@ -1,0 +1,14 @@
+# Секреты и данные авторизации Telegram
+.env
+*.session
+*.session-journal
+
+# Кэш Python и виртуальное окружение
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+
+# Локальные логи (на GitHub они будут создаваться заново)
+logs/
